@@ -1,4 +1,4 @@
-# CloudComputingSpring2020
+# CloudComputing - Dining Concierge Chatbot
 
 ## Team Member
 Mengqi Wu(mw4259), Yizhou Wang(yw4002), Haodong Zhang(hz2124), Xiaorong Rao(xr344)
